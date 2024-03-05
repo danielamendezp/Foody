@@ -459,8 +459,8 @@
         float: none;
         background-color: none;
         padding: 3%;
-        margin-top: -240px;
-        margin-left: -250px;
+        margin-top: -220px;
+        margin-left: -230px;
     }
 
     .productContainer .productButtons{
@@ -478,7 +478,7 @@
         padding-top: 10px;
         color: #474545;
         font-size: 70%;
-        padding:11.5%;
+        padding:12%;
     }
 
     .productSection .product .productContainer .productInfo{
